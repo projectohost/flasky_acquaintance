@@ -16,10 +16,13 @@ nav a {
     color: #fff;
     margin: 0 1em;
     text-decoration: none;
+    background-color: #0e78ea;
+    padding: 8px;
+    border-radius: 4px;
 }
 
 nav a:hover {
-    text-decoration: underline;
+    color: rgb(0, 8, 126)
 }
 
 .container {
